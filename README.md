@@ -17,3 +17,7 @@ Este projeto é um gerador de senhas em Python que utiliza o padrão de design S
 ## instalação das dependencias
 - pip install -r requirements.txt
 
+## utilização
+- entre no seu ambiente virtual
+- instale as dependencias
+- python main.py 10 E
